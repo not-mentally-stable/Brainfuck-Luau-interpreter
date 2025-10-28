@@ -20,7 +20,15 @@ example Brainfuck
 ```
 how to execute is simple
 ```Luau
-local BrainFuck = require(PutModulePath) -- require the module
-BrainFuck.BrainfuckInterpreter:run("++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>>+++++++++.++++++++++++.<<++.>>---------------------.---.++++++++++++++++++++++.----------------.<<.>>++++++++++++++++.------------------.+++++++++.++++++.<<.>>---------.----------.+.+++++++++++++..--.")
+local BrainfuckInterpreter = require(path.to.BrainfuckInterpreter)
+
+local code = [[
+++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>>+++++++++.++++++++++++.<<++.>>---------------------.---.++++++++++++++++++++++.----------------.<<.>>++++++++++++++++.------------------.+++++++++.++++++.<<.>>---------.----------.+.+++++++++++++..--.
+]]
+
+local interpreter = BrainfuckInterpreter.new(code)
+local output = interpreter:run()
+
+print("Output:", output)
 ```
 output: ``my dawg went kaboom``
