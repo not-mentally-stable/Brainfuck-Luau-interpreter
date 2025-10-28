@@ -104,7 +104,7 @@ that's it you can figure out the rest,
 happy Brainfuck coding :)
 
 # Misc...
-[![License: ](https://img.shields.io/badge/License%3A-MIT-green?style=plastic)](https://github.com/not-mentally-stable/xxpcall/blob/main/LICENSE)
+[![License: ](https://img.shields.io/badge/License%3A-MIT-green?style=plastic)](https://github.com/not-mentally-stable/Brainfuck-Luau-interpreter/blob/main/LICENSE)
 
 [![Scripting Language: LUAU](https://img.shields.io/badge/Scripting%20Language%3A-LUAU-blue?style=plastic)](https://github.com/luau-lang/luau)
 
