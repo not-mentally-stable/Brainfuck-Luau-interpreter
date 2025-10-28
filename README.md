@@ -100,8 +100,8 @@ local interpreter = BrainfuckInterpreter.new(code)
 local output = interpreter:run()
 print(output)
 ```
-that's it you can figure out the rest 
-happy Brainfuck coding
+that's it you can figure out the rest, 
+happy Brainfuck coding :)
 
 # Misc...
 [![License: ](https://img.shields.io/badge/License%3A-MIT-green?style=plastic)](https://github.com/not-mentally-stable/xxpcall/blob/main/LICENSE)
