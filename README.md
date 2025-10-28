@@ -8,7 +8,7 @@ with a pointer and cells
 you can learn brainfuck here:
 (i ofc didn't make these. credits to the owners that made these info & vid show some love)
 
-video: [Brainfuck explained im 100s by @Fireship](https://youtu.be/hdHjjBS4cs8?si=-nGJwx1L0rHYwUYe)
+video: [Brainfuck explained in 100s by @Fireship](https://youtu.be/hdHjjBS4cs8?si=-nGJwx1L0rHYwUYe)
 Wiki: https://en.wikipedia.org/wiki/Brainfuck
 other info:
 https://esolangs.org/wiki/Brainfuck
