@@ -88,11 +88,12 @@ math (so tuff)
 local BrainfuckInterpreter = require(path.to.BrainfuckInterpreter)
 
 local code = [[
-++                 set cell0 = 2
->+++               set cell1 = 3
-[->+<]             move total to cell1
->++++++++++++++++++++++++++++++++++++++++++++++++ print as '5'
-.
+++                 # cell0 = 2
+>+++               # cell1 = 3
+<                  # move back to cell0
+[->+<]             # move cell0 to cell1 (cell1 now = 5)
+>++++++++++++++++++++++++++++++++++++++++++++++++ # cell2 = 48
+.                  # output cell2
 ]]
 
 local interpreter = BrainfuckInterpreter.new(code)
