@@ -12,7 +12,11 @@ video: [Brainfuck explained in 100s by @Fireship](https://youtu.be/hdHjjBS4cs8?s
 
 Wiki: https://en.wikipedia.org/wiki/Brainfuck
 
-other info: https://esolangs.org/wiki/Brainfuck
+other info:
+
+https://gist.github.com/roachhd/dce54bec8ba55fb17d3a
+
+https://esolangs.org/wiki/Brainfuck
 
 # Documentation:
 
@@ -102,3 +106,5 @@ happy Brainfuck coding
 [![License: ](https://img.shields.io/badge/License%3A-MIT-green?style=plastic)](https://github.com/not-mentally-stable/xxpcall/blob/main/LICENSE)
 
 [![Scripting Language: LUAU](https://img.shields.io/badge/Scripting%20Language%3A-LUAU-blue?style=plastic)](https://github.com/luau-lang/luau)
+
+[![Esoteric programming Language: Brainfuck](https://img.shields.io/badge/Esoteric%20Programming%20Language%3A-Brainfuck-darkred?style=plastic)](https://en.wikipedia.org/wiki/Brainfuck)
